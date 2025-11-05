@@ -397,7 +397,7 @@ def print_display():
 
 # === Main Loop ===
 load_fonts()
-load_ROM("snake.ch8")
+load_ROM("Roms/snake.ch8")
 
 while True:
     try:
